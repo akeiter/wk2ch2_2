@@ -2,6 +2,9 @@
 using namespace std;
 int cubed(int param);
 
+
+// test
+
 int main()
 {
 
@@ -18,4 +21,6 @@ int main()
 int cubed(int param)
 {
     return param * param * param;
+
 }
+
